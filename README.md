@@ -1,6 +1,6 @@
 # Assignment 3 - Neural Machine Translation with LSTM and Attention
 
-Natural Language Processing - Fall 2026
+Natural Language Processing - 
 
 English → German neural machine translation with two PyTorch Seq2Seq models:
 
